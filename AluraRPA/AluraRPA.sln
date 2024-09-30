@@ -15,13 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RPA", "RPA", "{D3670019-3D2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInjection", "DependencyInjection", "{3A9F6EAE-26DF-46E8-AF98-E5DF844000A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraRPA.DependencyInjection", "AluraRPA.DependencyInjection\AluraRPA.DependencyInjection.csproj", "{CC30FCB6-FA1C-4108-A471-590B64B5E510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AluraRPA.DependencyInjection", "AluraRPA.DependencyInjection\AluraRPA.DependencyInjection.csproj", "{CC30FCB6-FA1C-4108-A471-590B64B5E510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraRPA.Infrastructure", "AluraRPA.Infrastructure\AluraRPA.Infrastructure.csproj", "{64D0E6CE-96D3-41FC-8146-337768A253F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AluraRPA.Infrastructure", "AluraRPA.Infrastructure\AluraRPA.Infrastructure.csproj", "{64D0E6CE-96D3-41FC-8146-337768A253F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraRPA.Domain", "AluraRPA.Domain\AluraRPA.Domain.csproj", "{F31240A0-C365-4CE0-8EF4-8428C78966CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AluraRPA.Domain", "AluraRPA.Domain\AluraRPA.Domain.csproj", "{F31240A0-C365-4CE0-8EF4-8428C78966CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraRPA.RPA", "AluraRPA.RPA\AluraRPA.RPA.csproj", "{EF281FD7-EA73-4244-B148-715C565544DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AluraRPA.RPA", "AluraRPA.RPA\AluraRPA.RPA.csproj", "{EF281FD7-EA73-4244-B148-715C565544DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

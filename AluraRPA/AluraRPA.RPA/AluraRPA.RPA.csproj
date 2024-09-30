@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AluraRPA.Domain\AluraRPA.Domain.csproj" />
+    <ProjectReference Include="..\AluraRPA.Infrastructure\AluraRPA.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
